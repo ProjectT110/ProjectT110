@@ -20,8 +20,8 @@ This project aims to complete those files and port Android ROMs like CyanogenMod
 ## Current Goal
 - [x] Kernel sources
 - [x] Recovery device tree
+- [x] Port TWRP 3 *(finished, not released yet)*
 - [ ] Complete device tree
-- [ ] Port TWRP 3
 - [ ] Get CyanogenMod to boot
 - [ ] Finish CyanogenMod
 
