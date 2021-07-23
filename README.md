@@ -1,7 +1,9 @@
 # ProjectT110
 ## Credits
 <a href="https://github.com/1Jesper1" title="1Jesper1 on GitHub">1Jesper1</a>
+
 <a href="https://github.com/TriDiscord" title="TriDiscord on GitHub">TriDiscord</a>
+
 <a href="https://github.com/sanderlippa" title="sanderlippa on GitHub">sanderlippa</a> *(tester)*
 
 <br>
