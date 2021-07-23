@@ -4,7 +4,7 @@
 
 <a href="https://github.com/TriDiscord" title="TriDiscord on GitHub">TriDiscord</a>
 
-<a href="https://github.com/sanderlippa" title="sanderlippa on GitHub">sanderlippa</a> *(tester)*
+<a href="https://github.com/sanderlippa" title="sanderlippa on GitHub">sanderlippa</a>
 
 <br>
 
