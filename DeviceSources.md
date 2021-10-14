@@ -10,7 +10,7 @@
 
 ## Proprietary Vendor Blobs
 
-[Proprietary Blob Repository](https://github.com/ProjectT110/proprietary_vendor_samsung_goyawifi-new "Proprietary Blob Repository")
+[Proprietary Blob Repository](https://github.com/ProjectT110/proprietary_vendor_samsung_goyawifi "Proprietary Blob Repository")
 
 ## CyanogenMod Sources
 
